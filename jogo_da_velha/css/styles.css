@@ -1,0 +1,32 @@
+#jogo{
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 252px; 
+    height: 80px;
+}
+
+.espaco{
+    width:  80px;
+    height: 80px;
+    border: 2px solid #000;
+    float: left;
+    text-align: center;
+    
+}
+
+.tabueiro{
+    width: 252px;
+    height: 252px;
+    margin: auto;
+}
+
+.jogador p{
+    float: left;
+    margin-right: 10px;
+}
+
+.jogador img {
+    border: 0;
+    height: 50;
+}
